@@ -1,0 +1,51 @@
+#links
+{
+    text-align: right;
+}
+a
+{
+    margin: 5px;
+}
+form
+{
+    margin: auto;
+    width: 40%;
+    padding-top: 300px;
+    text-align: center;
+}
+input[type="text"]
+{
+    width: 40%;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+.button
+{
+    display: block;
+    margin: auto;
+}
+
+.center
+{
+    display: inline;
+    margin-left: 300px;
+}
+
+
+input[value="Advanced Search"]
+{
+    box-shadow: none;
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    color: #fff;
+}
+
+label
+{
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+}
+
